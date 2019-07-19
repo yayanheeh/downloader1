@@ -1,0 +1,8 @@
+version: 0.1.0
+files:
+  - url: video-downloader-setup-0.1.0.exe
+    sha512: 4OI9sEzjOXCOYMsTMrc8HVtSv9u5rlogjoPaougKHLVzAgxd8SE4kQC30cFmYqvyHCR773h+AN1b13OXAkgEkw==
+    size: 31910568
+path: video-downloader-setup-0.1.0.exe
+sha512: 4OI9sEzjOXCOYMsTMrc8HVtSv9u5rlogjoPaougKHLVzAgxd8SE4kQC30cFmYqvyHCR773h+AN1b13OXAkgEkw==
+releaseDate: '2019-07-19T11:50:23.505Z'
